@@ -1,17 +1,17 @@
 module.exports.mess = {
-	        wait: 'Loading...',
-			success: 'Oke Desu~',
+	        wait: 'Tak Loading Sik Yh!!!',
+			success: 'Done Ngab!',
 			wrongFormat: 'Format salah, coba liat lagi di menu',
 			error: {
-				api: 'Ups, terjadi kesalahan',
+				api: 'Gbisa Njir Coba Lagi:v',
 				stick: 'bukan sticker itu:v',
-				Iv: 'Link tidak valid'
+				Iv: 'Linknya Gabisa Gelay:v'
 			},
 			only: {
-				group: 'Maaf! Command ini khusus untuk di dalam Group saja.',
-				admin: 'Maaf! Command ini khusus untuk admin group saja.',
-				premium: 'Kamu bukan user premium, kirim perintah *!buypremium* untuk membeli premium',
-				owner: 'Maaf! Command ini khusus untuk Owner Bot saja.',
-				Badmin: 'Maaf! Command ini khusus untuk Bot ketika jadi admin!!',
+				group: 'Cuma Bisa Di Gc Ngab!!!.',
+				admin: 'Lu Member Mau Ngapain?:v.',
+				premium: 'Males Ah, Lu Bukan Premium',
+				owner: 'Gabisa Ngab!!!, Lu Kan Bukan Owner:v.',
+				Badmin: 'Aku Bukan Admin TwT',
 			}
 		}
